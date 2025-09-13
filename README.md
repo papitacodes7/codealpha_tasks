@@ -219,7 +219,7 @@ CodeAlpha_Tasks/
 
 ## 👨‍💻 Author
 
-**CodeAlpha Intern**  
+**CodeAlpha Intern i.e Param Chauhan**  
 *C++ Programming Tasks*
 
 ---
